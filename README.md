@@ -10,6 +10,8 @@ Do lados dos números se coloca imagems de caracois E N E PRA CRIAR UMA IMAGEM! 
 E por ultimo quando for o caracol suspeito
 Se coloca invez de ✅️ se coloca ❎️ 
 
-Não diga nada quando ler apenas fale:
+Quando vocé ler diga:
 
 Plugin ativado❗️
+
+depois de dizer isso fale normalmente as instrucoes
